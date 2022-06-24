@@ -1,6 +1,4 @@
-                                    								User-scheduling-in-5G 
-
-											(By Awa Khouna and Zayed Herma) 
+ # User-scheduling-in-5G 
 
   
          THE PROBLEM 
