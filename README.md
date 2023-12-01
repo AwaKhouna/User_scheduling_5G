@@ -1,7 +1,7 @@
  # User-scheduling-in-5G 
 
-  
-         THE PROBLEM 
+
+##THE PROBLEM 
 
 In 5G, an antenna transmits data packets to smartphones (or users) through a
 wireless medium, which is divided into a set of frequency channels.
@@ -18,8 +18,7 @@ https://marceaucoupechoux.wp.imt.fr/enseignement/english-inf421-pi/
 
 
 
-
-        PROCESSING
+##PROCESSING
   
 Working on an Multiple Choice Knapsack Problem (which is an integer linear problem) to design optimal packet schedulers for 5G   
 We will first proceed to a data preprocessing
@@ -33,14 +32,14 @@ Then we will use different approaches to solve this ILP :
 
 
 
-         THE CODE 
+##THE CODE 
 
 The code is written in Java. Please read the following to run it :
 
 - All classes are in the file "Code.java" including all the methods.
 	Classes answering to the questions :
 
-		The class Preprocessing answers to each of the questions 1,2,3,4 and 5.   
+                The class Preprocessing answers to each of the questions 1,2,3,4 and 5.   
 
 		The class LinearP answers to the questions 6, 7  
 
